@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Carteirinha App
 
 Um aplicativo Flutter para escanear e validar QR codes de carteirinhas.
@@ -100,3 +101,21 @@ Se você deseja contribuir para este projeto, siga os passos abaixo:
 ## Licença
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+=======
+# carteirinha_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> 563d256 (Primeiro commit)
