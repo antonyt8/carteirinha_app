@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Carteirinha App
 
 Um aplicativo Flutter para escanear e validar QR codes de carteirinhas.
